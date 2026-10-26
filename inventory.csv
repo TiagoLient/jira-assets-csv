@@ -1,10 +1,7 @@
 Device_Name,Inventory_Check_Date,Inventory_Status,User_Checker
-AM-CS5KNN3,2026-10-22T00:00:00,True,Tiago.Lima@allient.com
 PTOPOLTP196,2026-10-22T00:00:00,True,Tiago.Lima@allient.com
+AM-CS5KNN3,2026-10-22T00:00:00,True,Tiago.Lima@allient.com
 AM-95VKLM4,2026-10-22T00:00:00,True,Tiago.Lima@allient.com
-AM-BGWX493,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
-AM-B0XXB24A0188,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
-AM-6X3D8D3,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
 AM-GQPXKR3,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
 PTOPOLTP294,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
 PTOPOLTP217,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
@@ -16,9 +13,6 @@ PTOPODTP040MAN,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
 PTOPODTP042MAN,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
 PTOPODTP043MAN,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
 PTOPODTP044MAN,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
-AM-4ZC3H94,2026-10-19T00:00:00,True,Paulo.Ribeiro@allient.com
-AM-7Y2PH24,2026-10-19T00:00:00,True,Paulo.Ribeiro@allient.com
-AM-F0KWB54,2026-10-19T00:00:00,True,Paulo.Ribeiro@allient.com
-PTOPODTP238,2026-10-19T00:00:00,True,Paulo.Ribeiro@allient.com
-AM-BDM5JR3,2026-10-19T00:00:00,True,Paulo.Ribeiro@allient.com
-PTOPODTP204,2026-10-19T00:00:00,True,Paulo.Ribeiro@allient.com
+AM-6X3D8D3,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
+AM-BGWX493,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
+AM-B0XXB24A0188,2026-10-20T00:00:00,True,Paulo.Ribeiro@allient.com
